@@ -1,4 +1,4 @@
 # Box-Shadow-generator
 Box-Shadow generator<br>
-This web site helps you to create box-shadow css code for your web site
+This web site helps you to create box-shadow css code for your projects
 <a href='https://arman-sahakyan.github.io/Box-Shadow-generator/build/index.html'>Live Demo</a>
